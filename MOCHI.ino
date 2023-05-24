@@ -9,9 +9,9 @@
 uint8_t DHTpin = D3;
 int pin_rainSensor = A0;
 
-const char* ssid = "Marek";
-const char* password = "masokpak";
-const char* host = "malikmal98.my.id";
+const char* ssid = "Admin";
+const char* password = "admin";
+const char* host = "vrensit.tech";
 //String url = "/public/insert"; 
 int adcvalue=0;
 
